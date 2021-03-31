@@ -1,0 +1,19 @@
+{
+  "name": "node-mongo-boilerplate",
+  "version": "1.0.0",
+  "description": "Web application boilerplate using node.js, monogoose & typescript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/madushan-sooriyarathne/node-mongo-boilerplate.git"
+  },
+  "author": "Madushan Sooriyarathne <hello@madushan.dev>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/madushan-sooriyarathne/node-mongo-boilerplate/issues"
+  },
+  "homepage": "https://github.com/madushan-sooriyarathne/node-mongo-boilerplate#readme"
+}
